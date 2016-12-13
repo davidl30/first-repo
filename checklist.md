@@ -3,3 +3,5 @@
 - troisième
 - quatrième
 - cinquième
+- sixième
+- septième
