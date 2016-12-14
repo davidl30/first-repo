@@ -10,4 +10,9 @@ Class Toto
 		$this->toto1 = 'titi';
 		$this->toto2 = 'tata';
 	}
+  
+  public function plus()
+  {
+    return 'La tête à toto';
+  }
 }
