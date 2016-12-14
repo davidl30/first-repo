@@ -1,4 +1,4 @@
-un fichier avec un texte
+un fichier avec un commentaire
 
 ajout de la branche new-branch
 
