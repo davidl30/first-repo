@@ -13,6 +13,6 @@ Class Toto
   
   public function plus()
   {
-    return 'La tête à toto';
+    return '0 + 0 = la tête à toto';
   }
 }
